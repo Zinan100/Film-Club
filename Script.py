@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/Samanth_abot'>𝚂𝚊𝚖𝚊𝚗𝚝𝚑𝚊</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 👿
+𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/'>𝚂𝚊𝚖𝚊𝚗𝚝𝚑𝚊</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 👿
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
@@ -9,8 +9,8 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ 𝚂𝚊𝚖𝚊𝚗𝚝𝚑𝚊 ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/Samanth_abot"> 𝚂𝚊𝚖𝚊𝚗𝚝𝚑𝚊 </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁- <a href="https://t.me/albintko"> 𝙰𝙻𝙱𝙸𝙽 </a>
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/Rexer0BOT_BOT"> 𝐑𝐄𝐗𝐄𝐑 </a>
+║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁- <a href="https://t.me/Zinan00100"> zinan tech 2.O</a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -19,11 +19,11 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Samantha-a/Film-Club"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/zinan100/Film-Club"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
   
 
 <b>DEVS:</b>
-- <a href=https://t.me/albintko>𝙰𝙻𝙱𝙸𝙽</a>"""
+- <a href=https://t.me/Zinan00100>zinan tech 2.O</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
